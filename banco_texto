@@ -1,0 +1,23 @@
+-- create database  geren_saboroso;
+-- use geren_saboroso;
+
+-- create table pedidos (
+-- id_pedidos int not null primary key auto_increment,
+-- nome_prato varchar (120) not null,
+-- cliente varchar (100) not null,
+-- quantidade int not null,
+-- preco decimal not null
+-- );
+
+-- create table clientes (
+-- id_clientes int not null primary key auto_increment,
+-- nome varchar (120) not null,
+-- sobrenome varchar (100) not null
+-- );
+
+-- create table menu (
+-- id_item int not null primary key auto_increment,
+-- nome_prato varchar (120) not null,
+-- preco_uni varchar (100) not null,
+-- descricao varchar (100) not null
+-- );
